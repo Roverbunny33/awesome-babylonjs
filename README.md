@@ -342,6 +342,7 @@ _Information by developers, for developers._
 - [Babylon JS Day 10: Terrarium](https://radicalappdev.com/2021/03/12/babylon-js-day-10-terrarium/) - Final in a series of lessons that explains how to use `AssetsManager`.
 - [Babylon JS Day 19: Golf Club](https://radicalappdev.com/2021/03/25/babylon-js-day-19/) - Shows how to leverage `AssetsManager` to load a custom model as a VR controller.
 - [Babylon Native in a Headless Environment](https://babylonjs.medium.com/babylon-native-in-a-headless-environment-868409b8b1cf) - A guide to some of the internals of the new Babylon Native engine.
+- [Babylon.js 6.0: Delivering the best of both worlds](https://dev.to/babylonjs/babylonjs-60-delivering-the-best-of-both-worlds-1kn2) - Overview of the Babylon.js 6.0 release with WebGPU defaults, improved performance tooling, and major workflow updates.
 - [Babylon on Quest](https://blairmacintyre.me/2019/11/20/babylon-on-quest-one-small-step/) - Tips on how to develop WebXR games using a Quest headset.
 - [Building the Web-Based 3d Digital Experience for the Mayflower Autonomous Ship](https://joepavitt.medium.com/building-the-web-based-3d-digital-experience-for-the-mayflower-autonomous-ship-a56f08e6558) - A behind-the-scenes look at a production-quality Babylon.js project.
 - [Canvas Accessibility and GUI Animations with Babylon.js](https://babylonjs.medium.com/canvas-accessibility-and-gui-animations-with-babylon-js-8001378a1509) - The Babylon.js team introduces two interesting new features in Babylon.js 5: GUI Animations and the Accessibility Twin Renderer.
